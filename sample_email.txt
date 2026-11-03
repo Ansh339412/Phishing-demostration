@@ -1,0 +1,6 @@
+Subject: Urgent: verify your account immediately
+
+Your account will be suspended within 24 hours. Verify your account and login details here:
+https://example.invalid/verify
+
+This sample is intentionally fictional and for offline testing only.
